@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+.DS_Store
+dist/
+*.zip
+node_modules/
+.vscode/
+.idea/
+*.log

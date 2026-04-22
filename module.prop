@@ -1,0 +1,10 @@
+id=trustanycert
+name=TrustAnyCert
+version=v1.0
+versionCode=1
+author=gorkemgun
+description=WebUI-based CA certificate installer for the Android System trust store. Upload any PEM/DER/CRT/CER/P7B/P7C; subject_hash is computed in-browser. Supports Magisk/KernelSU/SukiSU/APatch. Android 5.0-15 with APEX bypass for Android 14+.
+updateJson=https://raw.githubusercontent.com/gorkemgun/TrustAnyCert/main/update.json
+support=https://github.com/gorkemgun/TrustAnyCert
+minApi=21
+maxApi=36
